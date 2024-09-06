@@ -23,6 +23,7 @@ Step-7: End
 Program to implement the the Logistic Regression Using Gradient Descent.
 Developed by: B.NIHITHA RANI
 RegisterNumber:  212223040131
+*/
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -84,7 +85,7 @@ print(y_prednew)
 xnew=np.array([[0,0,0,0,0,2,8,2,0,0,1,0]])
 y_prednew=predict(theta,xnew)
 print(y_prednew)
-*/
+
 ```
 
 ## Output:
@@ -106,8 +107,8 @@ print(y_prednew)
 ```
 print(y_prednew)
 ```
+![n5-4](https://github.com/user-attachments/assets/3dfdb1d7-603b-4ecb-bcdc-736ff2672dc0)
 
-![5-4](https://github.com/user-attachments/assets/6c6cfc09-c132-42dd-9d82-37c5ca036ca0)
 
 ## Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
